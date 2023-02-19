@@ -4,6 +4,7 @@
 
 body {
     font-family: 'JetBrains Mono', monospace;
+    background-color: black;
   }
 
   @font-face {
